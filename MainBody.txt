@@ -1,0 +1,48 @@
+<!-- Top banner bg img hl cta1 END -->
+			<!--| START: general/newtemplate/v3/article_cta_alllanguages_allclients_V3 |-->
+			<!-- Article hl sbl cta START -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF;" bgcolor="#FFFFFF" align="center" class="moduleContainer">
+  <tr>
+    <td style="font-size:1px;line-height:1px;padding: 20px 0px 20px 0px;" align="center">
+      <table width="600" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="container">
+        <tr>
+          <td height="28" style="mso-line-height-rule:exactly;font-family: Helvetica, Arial, sans-serif;text-decoration:none;color:#ff6600;font-weight:700;font-size:25px;line-height:28px;padding:15px 10px 0px 10px;" align="center">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+          </td>
+        </tr>
+        <tr>
+          <td height="18" style="mso-line-height-rule:exactly;font-family: Helvetica, Arial, sans-serif;text-decoration:none;color:#666666;font-weight: 300;font-size:15px;line-height:18px;padding:15px 10px 0px 10px;" align="center">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </td>
+        </tr>
+        <tr>
+          <td style="font-size:1px;line-height:1px;padding:25px 10px 20px 10px;" align="center">
+            <table width="560" border="0" cellspacing="0" cellpadding="0" align="center" class="container">
+              <tr>
+                <td style="font-size:1px;line-height:1px;padding:0px 0px 0px 0px;" align="center">
+                  <table border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ff6600" style="border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px;background-color: #ff6600;" class="container">
+                    <tr>
+                      <td height="41" style="border-bottom: 2px solid #ba510b;border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px;" align="center">
+                        <a href="https://files.feed.xyz/London/betsson/Betssonurl.html" target="_blank" style="display:block;text-decoration:none;border:0;text-align: center;font-family: Helvetica, Arial, sans-serif;color:#FFFFFF;font-weight: 500;font-size:22px;line-height:25px;padding:8px 22px 8px 22px;" class="NoPaddingLeft NoPaddingRight">
+                        <!--[if mso]><table border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td style="line-height:1px;font-size:1px;padding:0px 22px 0px 22px;">
+                            <a href="https://files.feed.xyz/London/betsson/Betssonurl.html" target="_blank" style="text-decoration:none;border:0;text-align: center;font-family: Helvetica, Arial, sans-serif;color:#FFFFFF;font-weight: 500;font-size:22px;line-height:25px;"><![endif]-->
+                              Lorem ipsum
+                            <!--[if mso]></a>
+                            </td>
+                          </tr>
+                        </table><![endif]-->
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

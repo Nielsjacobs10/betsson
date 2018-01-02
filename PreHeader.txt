@@ -1,0 +1,27 @@
+<!-- BSN Preheader and "View in browser" PE section -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#dfdfdf;" bgcolor="#dfdfdf" align="center">
+	<tr>
+		<td style="font-size:1px;line-height:1px;" align="center">
+			<table width="600" border="0" cellspacing="0" cellpadding="0" style="background-color:#dfdfdf;" bgcolor="#dfdfdf" align="center" class="container">
+				<tr>
+					<td style="font-size:1px;line-height:1px; vertical-align: top;" align="center" valign="top" class="mobile-hidden tablet-hidden">
+						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="container">
+							<tr>
+								<td height="1" style="font-size:1px;line-height:1px; color: #dfdfdf;" align="center">
+									
+								</td>
+							</tr>
+							<tr>
+								<td width="600" height="14" style="mso-line-height-rule:exactly;font-family: Helvetica, Arial, sans-serif;color:#666666;font-weight: 300;font-size:11px;line-height:14px;padding: 0px 0px 0px 0px;text-align: center;" align="center" class="container">
+									<a href="%%view_email_url%%" style="color:#666666; text-decoration: underline; font-size:11px;padding: 0px 0px 2px 0px;" target="_blank">
+									Ver versi&oacute;n online</a>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>			
+		</td>
+	</tr>	
+</table>
+<!-- BSN Preheader and "View in browser" PE section -->

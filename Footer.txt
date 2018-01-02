@@ -1,0 +1,29 @@
+<!-- BS Footer PE section -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#FFFFFF;" align="center" bgcolor="#FFFFFF" >
+	<tr>
+		<td style="font-size:1px;line-height:1px;" align="center">
+			<table width="600" border="0" cellspacing="0" cellpadding="0" style="background-color:#FFFFFF;" align="center" bgcolor="#FFFFFF" class="container">
+			    <tr>
+			        <td style="font-size:1px;line-height: 1px;padding: 0px 0px 0px 0px;" align="center" class="photo mobile-hidden">
+						<table width="560" border="0" cellspacing="0" cellpadding="0" style="border-top:1px solid #dec3af;border-bottom:1px solid #dec3af;" align="center">
+							<tr>
+								<td style="font-size:1px;line-height: 1px;padding: 30px 0px 30px 0px;" align="center">
+									<a title="Deposit options" href="https://customer-service.betsson.com/pe/opciones-de-deposito?utm_medium=email&utm_source=ExactTarget&utm_content=FooterPayment&utm_campaign=%%emailname_%%" target="_blank" class="font-family:Helvetica, Arial, sans-serif; font-weight:200; font-size: 17px; line-height: 22px; color: #006EB4;" style="text-decoration:none;">
+						                <img width="560" height="70" border="0" src="http://image.s4.exct.net/lib/fe941570716d007574/m/3/PE_Payment_560x70px.png" alt="Deposit options" title="Deposit options" style="display: block; border:0;color: #888165;" />
+						            </a>
+								</td>
+							</tr>
+						</table>
+			        </td>
+			    </tr>
+			    <tr>
+			        <td height="15" valign="top" align="center" style="mso-line-height-rule:exactly;font-family:Helvetica, Arial, sans-serif; font-weight: 300; line-height: 14px; vertical-align: top; padding:30px 20px 20px 20px; font-size: 10px; color: #888165;vertical-align:top;">
+						Si no quieres recibir m&aacute;s correos, por favor haz&nbsp;clic<a href="http://go2.betsson.com/unsubscribe?lc=%%InternalLanguageCode%%&guid=%%_subscriberkey%%" target="_blank" style="text-decoration: underline; color: #888165;"> aqu&iacute;</a> para darte de baja.
+						<br /> &copy; Betsson %%xtyear%%.
+			        </td>
+			    </tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<!-- END BS Footer PE section -->
